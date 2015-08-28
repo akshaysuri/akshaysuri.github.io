@@ -9,7 +9,8 @@ name: Akshay Suri
 description: Observer / Coder / Writer / Wanderer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://github.com/akshaysuri
+#https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
@@ -21,12 +22,12 @@ footer-links:
   email: akshayoffer@gmail.com
   facebook:
   flickr:
-  github: github.com/akshaysuri
+  github: akshaysuri
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
