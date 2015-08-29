@@ -14,12 +14,13 @@ The next expectation is to increase the exemption limit under 80C from existing 
 
 <b>My personal opinion:</b>
 In my personal opinion, FM will definitely try to make the tax payer happy but in his own style.
-FM might remove the existing tax credit of Rs. 2000 (tax rebate given to individuals whose net income is less than 5.0 lacs) and instead increase the No tax slab from Rs 2.5 lacs to 2.7 lacs
-If this move takes place, then following are the implications:
-1. Upto 5.0 lacs (No extra saving on tax)
-2. Greater than 5.0 lacs (Rs. 2,000 savings in taxes)
 
-FM might also consider making modifications to existing allowances like 
-1. Conveyance allowance (currently Rs. 800/mth.) due to rising transportation cost
-2. Medical allowance (currently Rs. 15,000 / yr ) due to rising medical and healthcare cost
-3. HRA due to sky touching rents especially in the metro cities.
+FM might consider making modifications to existing allowances like<br> 
+1. Conveyance allowance (currently Rs. 800/mth.) - due to rising transportation cost<br>
+2. Medical allowance (currently Rs. 15,000 / yr ) - due to rising medical and healthcare cost<br>
+3. HRA - due to sky touching rents especially in the metro cities.<br>
+
+FM might also remove the existing tax credit of Rs. 2000 (tax rebate given to individuals whose net income is less than 5.0 lacs) and instead increase the No tax slab from Rs 2.5 lacs to 2.7 lacs
+If this move takes place, then following are the implications:<br>
+1. Upto 5.0 lacs (No extra saving on tax) <br>
+2. Greater than 5.0 lacs (Rs. 2,000 savings in taxes)
