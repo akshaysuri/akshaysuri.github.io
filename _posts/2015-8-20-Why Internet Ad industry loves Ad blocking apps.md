@@ -10,9 +10,9 @@ Does accidentally clicking on them, make you curse the company?
 Using Ad block or similar app for your peace? 
 Here's why the company will like to personally thank you. (at least why they should)
 
-There are 3 parties involved in internet advertisement industry:
-<i> One - The product owner. </i>
-<i> Two - The website on which ads are posted. </i>
+There are 3 parties involved in internet advertisement industry:<br>
+<i> One - The product owner. </i><br>
+<i> Two - The website on which ads are posted. </i><br>
 <i> Three - Customer. </i>
 
 The product owner makes the money if someone actually purchases something from their website. So the reason they are putting ads on other websites, is that they want their ad to be clicked so that user is directed to their site and the possibility of selling something increases.
