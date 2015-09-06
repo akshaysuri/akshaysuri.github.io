@@ -5,11 +5,11 @@ title: Ingenious Colgate Ad
 
 Colgate has  created a very ingenious advertising campaign to promote their dental  floss, but before I explain the main details of these images, I will let  you appreciate them quietly.
 
-![_config.yml]({{ site.baseurl }}/images/blog_images/colg1.jpg)
+![_config.yml]({{ site.baseurl }}/images/blog_images/colg1.JPG)
 
-![_config.yml]({{ site.baseurl }}/images/blog_images/colg2.jpg)
+![_config.yml]({{ site.baseurl }}/images/blog_images/colg2.JPG)
 
-![_config.yml]({{ site.baseurl }}/images/blog_images/colg3.jpg)
+![_config.yml]({{ site.baseurl }}/images/blog_images/colg3.JPG)
 
 Alright, now that you had time to quietly observe the images, some of you might wonder what's so special about this ad?
 
