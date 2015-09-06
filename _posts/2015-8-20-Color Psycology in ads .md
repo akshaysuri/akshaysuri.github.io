@@ -23,3 +23,6 @@ I would take a few examples and let the images speak for themselves in this post
 
 <b> BLUE </b> <br>
 ![_config.yml]({{ site.baseurl }}/images/blog_images/color_Pys_ujala.jpg)
+
+<b> RED(colgate) + GREEN(neem variant) </b> <br>
+![_config.yml]({{ site.baseurl }}/images/blog_images/color_Pys_neem.jpg)
