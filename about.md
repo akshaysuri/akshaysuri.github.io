@@ -6,8 +6,8 @@ permalink: /about/
 
 <b><i> 
 Observer <br>
-Coder <br>
 Writer <br>
+Coder <br>
 Pseudo Intellectual <br>
 <i></b>
 
