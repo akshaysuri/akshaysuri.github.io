@@ -4,7 +4,13 @@ title: About
 permalink: /about/
 ---
 
-I am a software developer by profession and an enthusiastic writer.
+<b><i> 
+Observer <br>
+Coder <br>
+Writer <br>
+Pseudo Intellectual <br>
+<i></b>
+
 
 
 ### Contact me
