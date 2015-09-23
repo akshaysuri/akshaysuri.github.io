@@ -13,7 +13,7 @@ Here's why the company will like to personally thank you. (at least why they sho
 There are 3 parties involved in internet advertisement industry:<br>
 <i> One - The product owner. </i><br>
 <i> Two - The website on which ads are posted. </i><br>
-<i> Three - Customer. </i>
+<i> Three - Customers (You / I /Us) </i>
 
 The product owner makes the money if someone actually purchases something from their website. So the reason they are putting ads on other websites, is that they want their ad to be clicked so that user is directed to their site and the possibility of selling something increases.
 
