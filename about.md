@@ -14,5 +14,5 @@ Pseudo Intellectuals <br>
 
 
 ### Contact Us
-[talwar.gunjan@gmail.com](mailto:talwar.gunjan@gmail.com)
+[talwar.gunjan@gmail.com](mailto:talwar.gunjan@gmail.com) <br>
 [akshayoffer@gmail.com](mailto:akshayoffer@gmail.com)
