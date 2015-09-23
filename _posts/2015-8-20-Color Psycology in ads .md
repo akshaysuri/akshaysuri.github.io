@@ -1,14 +1,14 @@
 ---
 layout: post
-title: The subtle color trick Advertisement industry plays
+title: The subtle color trick Advertisement industry plays on you
 ---
 
 
 
-You might have missed this subtle trick that the advertisement industry has been pulling off.
+You might have missed this subtle trick that the advertisement industry has been pulling off on us.
 
 Your brain is presented with a visually dominating screen which is of the same color as the product.
-The color of the product is emphasised on the screen to establish a sense of familiarity with that product.
+The color of the product is emphasized on the screen to establish a sense of familiarity with that product and to wire information to your sub-conscious mind.
 
 I would take a few examples and let the images speak for themselves in this post:
 
