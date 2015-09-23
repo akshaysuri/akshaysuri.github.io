@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-<b><i> 
-Observer <br>
-Writer <br>
-Coder <br>
-Pseudo Intellectual <br>
+<b><i>
+Observers <br>
+Writers <br>
+Coders <br>
+Pseudo Intellectuals <br>
 <i></b>
 
 
 
-### Contact me
-
+### Contact Us
+[talwar.gunjan@gmail.com](mailto:talwar.gunjan@gmail.com)
 [akshayoffer@gmail.com](mailto:akshayoffer@gmail.com)
